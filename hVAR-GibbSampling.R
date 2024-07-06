@@ -124,9 +124,9 @@ MSGibbs <- function(H,        # list of N matrices, each one of shape (B*l+1) x 
     }
     
     # report iter
-    #if (i%%2000==0){
-    #  cat("i=", i, "\n", sep="")
-    #}
+    if (i%%1000==0){
+      cat("i=", i, "\n", sep="")
+    }
   }
   
   ### 4) return results
