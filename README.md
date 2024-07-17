@@ -6,6 +6,7 @@ This repository provides the code used for the analysis of the paper _Characteri
 - _hVAR-GibbSampling.R_ : R script with functions to perform the Monte Carlo Gibb sampling;
 - _hVAR-AnalyzeResults.R_ : R script containing functions to analyze the samples obtained from the Monte Carlo procedure;
 - _data_subtype_abundances_2010-2019_th50cases_ilr-map_clustering.csv_ : file of data. Data points consist of country-year proportions of infections by (sub)type.
+- _Annex2_forecasts_all_years-countries-methods.xlsx_ : contains the forecast for all countries and all predicted years, obtained with the 5 methods tested
 
 Our code is based on the code of _Lu, F., Zheng, Y., Cleveland, H., Burton, C. & Madigan, D. Bayesian Hierarchical
 Vector Autoregressive Models for Patient-Level Predictive Modeling. PLOS ONE 13, e0208082. https://doi.org/10.1371/journal.pone.0208082 (2018)._
