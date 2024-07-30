@@ -1,4 +1,4 @@
-# coupled-dynamics-flu-subtypes
+# global-flu-subtype-dynamics
 This repository provides the code used for the analysis of the paper _Characterization and forecast of global influenza (sub)type dynamics_
 
 **Content of the repository**
