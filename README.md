@@ -1,5 +1,6 @@
 # coupled-dynamics-flu-subtypes
-This repository provides the code used for the analysis of the paper _Characterization and forecast of global influenza (sub)type dynamics_
+This repository provides the code used for the analysis of the paper _Characterization and forecast of global influenza (sub)type dynamics_ doi: https://doi.org/10.1101/2024.08.01.24311336
+
 
 **Content of the repository**
 - _forecasts_average-VAR-hVAR.R_ : R script to forecast the subtype compositions one year in advance. The forecast is made via a Hierarchical Vector AutoRegressive model, where the model's parameters are optimized via Monte Carlo Gibb Sampling;
